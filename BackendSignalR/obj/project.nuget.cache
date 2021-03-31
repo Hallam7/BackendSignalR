@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jsPzcxqrBFEwstQUhwktec2zceZ7C3ryMzeoUU1SqJ7QCbwwzMQX599QSfbr9uzZvGcEna7Ej4h4VFiqsLPXOA==",
+  "dgSpecHash": "aMvsxjNshLMROkGL2tCJjUh6cMNgAKR37Jlsr9pFzEzGHe4NpSpnOg9+IscSW8GXP58CiN3NIMw7Nx+n5AF8Uw==",
   "success": true,
-  "projectFilePath": "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
+  "projectFilePath": "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

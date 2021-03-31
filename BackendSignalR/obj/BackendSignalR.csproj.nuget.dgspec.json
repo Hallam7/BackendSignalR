@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/BackendSignalR.csproj": {}
+    "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/BackendSignalR.csproj": {}
   },
   "projects": {
-    "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/BackendSignalR.csproj": {
+    "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/BackendSignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
+        "projectUniqueName": "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
         "projectName": "BackendSignalR",
-        "projectPath": "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
+        "projectPath": "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/BackendSignalR.csproj",
         "packagesPath": "/Users/markhallam/.nuget/packages/",
-        "outputPath": "/Users/markhallam/Projects/BackendSignalR/BackendSignalR/obj/",
+        "outputPath": "/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/markhallam/.config/NuGet/NuGet.Config"

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{002452D5-C3FB-4554-95FE-30C1C069F2C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.BackendSignalR PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendSignalR/ChatHub.cs">
+    <Files>
+      <File FileName="BackendSignalR/ChatHub.cs" Line="13" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackendSignalR" expanded="True">
+            <Node name="BackendSignalR" expanded="True">
+              <Node name="ChatHub.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
