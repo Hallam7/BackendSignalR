@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{002452D5-C3FB-4554-95FE-30C1C069F2C4}|Default">
-  <MonoDevelop.Ide.ItemProperties.BackendSignalR PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BackendSignalR/ChatHub.cs">
+  <MonoDevelop.Ide.ItemProperties.BackendSignalR PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendSignalR/Startup.cs">
     <Files>
-      <File FileName="BackendSignalR/ChatHub.cs" Line="13" Column="54" />
+      <File FileName="BackendSignalR/ChatHub.cs" Line="14" Column="10" />
+      <File FileName="BackendSignalR/Program.cs" />
+      <File FileName="BackendSignalR/Startup.cs" Line="10" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BackendSignalR" expanded="True">
             <Node name="BackendSignalR" expanded="True">
-              <Node name="ChatHub.cs" selected="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
