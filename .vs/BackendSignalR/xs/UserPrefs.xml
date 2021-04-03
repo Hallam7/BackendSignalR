@@ -4,7 +4,7 @@
     <Files>
       <File FileName="BackendSignalR/ChatHub.cs" Line="14" Column="10" />
       <File FileName="BackendSignalR/Program.cs" />
-      <File FileName="BackendSignalR/Startup.cs" Line="10" Column="32" />
+      <File FileName="BackendSignalR/Startup.cs" Line="6" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,6 +15,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
