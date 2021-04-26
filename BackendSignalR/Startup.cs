@@ -28,7 +28,7 @@ namespace BackendSignalR
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                // This lambda determines whether user consent for non-essential cookies is needed
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
                 services.AddMvc(option => option.EnableEndpointRouting = false);
