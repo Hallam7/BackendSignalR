@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{002452D5-C3FB-4554-95FE-30C1C069F2C4}|Default">
   <MonoDevelop.Ide.ItemProperties.BackendSignalR PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BackendSignalR/BackendSignalR.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendSignalR/Properties/launchSettings.json">
     <Files>
       <File FileName="BackendSignalR/ChatHub.cs" Line="27" Column="2" />
-      <File FileName="BackendSignalR/Program.cs" Line="17" Column="51" />
-      <File FileName="BackendSignalR/Startup.cs" Line="14" Column="1" />
-      <File FileName="BackendSignalR/BackendSignalR.csproj" Line="17" Column="1" />
+      <File FileName="BackendSignalR/Program.cs" />
+      <File FileName="BackendSignalR/Startup.cs" />
+      <File FileName="BackendSignalR/Properties/launchSettings.json" Line="8" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BackendSignalR" expanded="True">
-            <Node name="BackendSignalR" expanded="True" selected="True" />
+            <Node name="BackendSignalR" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -43,7 +43,16 @@
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/BackendSignalR.pdb
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/BackendSignalR.Views.dll
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/BackendSignalR.Views.pdb
-/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.csprojAssemblyReference.cache
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/MessagePack.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.Common.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.Azure.SignalR.Protocols.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.AssemblyInfoInputs.cache
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.AssemblyInfo.cs
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.csproj.CoreCompileInputs.cache
@@ -66,7 +75,7 @@
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.RazorTargetAssemblyInfo.cache
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.RazorTargetAssemblyInfo.cs
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.Views.pdb
+/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.csproj.CopyComplete
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.dll
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.pdb
 /Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.genruntimeconfig.cache
-/Users/markhallam/Documents/GitHub/BackendSignalR/BackendSignalR/obj/Debug/netcoreapp3.1/BackendSignalR.csproj.CopyComplete

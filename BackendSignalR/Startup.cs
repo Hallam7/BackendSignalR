@@ -64,7 +64,7 @@ namespace BackendSignalR
 
             app.UseEndpoints((routes) =>
             {
-                routes.MapHub<ChatHub>("/chathub");
+                routes.MapHub<ChatHub>("/chatHub");
             });
 
             app.UseEndpoints(endpoints =>
